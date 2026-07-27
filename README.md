@@ -6,17 +6,31 @@ A machine learning project that predicts the outcome of a hypothetical future Ed
 
 In this repo:
 
-streamlit\_app\_oilers\_predictor.py -> Streamlit interface code
 
-update.py -> Function to update data on SQL to the latest Oilers game
 
-predict.py -> Scikit-Learn machine learning model that predicts game outcome based on user inputs
+python\_files/:
 
-requirements.txt -> Python dependencies used by this project
+* streamlit\_app\_oilers\_predictor.py -> Streamlit interface code
+* update.py -> Function to update data on SQL to the latest Oilers game
+* predict.py -> Scikit-Learn machine learning model that predicts game outcome based on user inputs
 
-SQL\_schema.md -> Description of tables on SQL database
+
 
 screenshots/ -> screenshots of Streamlit UI
 
+
+
 static/ -> images used in Streamlit UI
+
+
+
+SQL/:
+
+* SQL\_schema.md -> Description of tables on SQL database
+
+
+
+requirements.txt -> Python dependencies used by this project
+
+
 
