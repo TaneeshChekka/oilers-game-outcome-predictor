@@ -33,5 +33,7 @@ requirements.txt -> Python dependencies used by this project
 
 
 
-!\[Streamlit UI](**"C:\\Users\\tanee\\PycharmProjects\\Oilers Predictor Front End\\oilers-game-outcome-predictor\\screenshots and videos\\Oilers Predictor Video.mp4"**)
+!\[Streamlit UI](https://github.com/TaneeshChekka/oilers-game-outcome-predictor/blob/main/screenshots\_and\_videos/After%20prediction.png?raw=true)
+
+
 
