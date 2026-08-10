@@ -17,7 +17,7 @@ python\_files/:
 
 
 
-screenshots and videos/ -> screenshots and videos of Streamlit UI
+screenshots\_and\_videos/ -> screenshots and videos of Streamlit UI
 
 
 
