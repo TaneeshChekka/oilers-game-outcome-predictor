@@ -128,6 +128,8 @@ if update_pressed:
 
     update_button_placeholder.button("Update Date", use_container_width = True, key = "update_button_back_to_original")
 
+    st.rerun()
+
 with center2:
     st.markdown(
         f"<p style='color:black; font-size:14.53px; text-align:center;'>Latest Game Stored: {latest_date}</p>",
