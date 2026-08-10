@@ -33,9 +33,5 @@ requirements.txt -> Python dependencies used by this project
 
 
 
-!\[Streamlit UI](https://github.com/TaneeshChekka/oilers-game-outcome-predictor/blob/main/screenshots\_and\_videos/After%20prediction.png?raw=true)
-
-
-
-
+!\[Streamlit UI](screenshots\_and\_videos/After prediction.png)
 
