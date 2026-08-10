@@ -13,14 +13,13 @@ python\_files/:
 * streamlit\_app\_oilers\_predictor.py -> Streamlit interface code
 * update.py -> Function to update data on SQL to the latest Oilers game
 * predict.py -> Scikit-Learn machine learning model that predicts game outcome based on user inputs
+* static/ -> images used in Streamlit UI
 
 
 
-screenshots/ -> screenshots of Streamlit UI
+screenshots and videos/ -> screenshots and videos of Streamlit UI
 
 
-
-static/ -> images used in Streamlit UI
 
 
 
@@ -33,4 +32,6 @@ SQL/:
 requirements.txt -> Python dependencies used by this project
 
 
+
+!\[Streamlit UI](**"C:\\Users\\tanee\\PycharmProjects\\Oilers Predictor Front End\\oilers-game-outcome-predictor\\screenshots and videos\\Oilers Predictor Video.mp4"**)
 
