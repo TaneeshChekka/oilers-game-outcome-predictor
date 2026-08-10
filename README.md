@@ -2,6 +2,8 @@
 
 A machine learning project that predicts the outcome of a hypothetical future Edmonton Oilers game using hockey features engineered from past games and a Random Forest Classifier model. The app includes a Streamlit interface with prediction and database‑update functionality, backed by a local MySQL database. The codebase demonstrates practical skills in feature engineering, Scikit-Learn model training, SQL integration, and building interactive ML tools.
 
+DEMO VIDEO: https://github.com/TaneeshChekka/oilers-game-outcome-predictor/blob/main/screenshots\_and\_videos/Oilers%20Predictor%20Video.mp4
+
 
 
 In this repo:
@@ -30,10 +32,6 @@ SQL/:
 
 
 requirements.txt -> Python dependencies used by this project
-
-
-
-!\[Streamlit UI](screenshots\_and\_videos/After%20prediction.png?raw=true)
 
 
 
