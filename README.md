@@ -35,3 +35,5 @@ requirements.txt -> Python dependencies used by this project
 
 
 
+!\[Streamlit UI](screenshots\_and\_videos/After%20prediction.png)
+
