@@ -33,9 +33,10 @@ SQL/:
 
 requirements.txt -> Python dependencies used by this project
 
+
+
 ![Streamlit UI](https://github.com/TaneeshChekka/oilers-game-outcome-predictor/blob/28402689c8c6c6737163056c6259380c7442f5b4/screenshots_and_videos/After%20prediction.png)
 
 
 
-!\[Streamlit UI](screenshots\_and\_videos/After%20prediction.png)
 
