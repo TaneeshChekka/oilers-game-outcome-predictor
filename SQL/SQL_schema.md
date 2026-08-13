@@ -57,4 +57,13 @@ Final engineered feature set used for model training and prediction.
 - `opponent_last_5_win_rate` (DOUBLE)
 - `oilers_last_2_win_rate_vs_opponent` (DOUBLE)
 - `oilers_last_2_goals_mean_vs_opponent` (DOUBLE)
-- `oilers_last_2
+- `oilers_last_2_goals_let_in_mean_vs_opponent` (DOUBLE)
+- `oilers_last_2_goal_differential_mean_vs_opponent` (DOUBLE)
+
+This table is created by filtering and enhancing `features_1` inside `update.py`.
+
+---
+
+### **Notes**
+- The database is **local only** and not included in this repository.
+- No credentials or actual data are stored in GitHub.
