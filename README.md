@@ -39,11 +39,11 @@ This project builds a full end‑to‑end data pipeline using the NHL API Refere
 
 A Random Forest Classifier predicts the outcome of a future Oilers game using engineered features stored in MySQL.
 
-- **Modeling tools:** `scikit-learn`, `pandas`, `numpy`
+- **Modeling tools:** `scikit-learn`, `pandas`
 - **Training workflow:**  
   - Train/test split for evaluation  
   - Feature scaling and encoding  
-  - Hyperparameter tuning using `GridSearchCV` and `RandomizedSearchCV`
+  - Hyperparameter tuning using `RandomizedSearchCV`
 - **Model inputs:**  
   - Team performance metrics  
   - Opponent rolling strength  
