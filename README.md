@@ -71,20 +71,18 @@ A Streamlit interface provides an interactive way to run predictions and update 
 
 ## In this repo:
 
-python\_files/:
-
+**python\_files/:**
 * streamlit\_app\_oilers\_predictor.py -> Streamlit interface code
 * update.py -> Function to update data on SQL to the latest Oilers game
 * predict.py -> Scikit-Learn machine learning model that predicts game outcome based on user inputs
 * static/ -> images used in Streamlit UI
 
-screenshots\_and\_videos/ -> screenshots and videos of Streamlit UI
+**screenshots\_and\_videos/** -> screenshots and videos of Streamlit UI
 
-SQL/:
-
+**SQL/:**
 * SQL\_schema.md -> Description of tables on SQL database
 
-requirements.txt -> Python dependencies used by this project
+**requirements.txt** -> Python dependencies used by this project
 
 
 ## Stack
